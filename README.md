@@ -1,5 +1,5 @@
-## Title of the Project
-**Decentralized Medical Records Management System**
+## Decentralized Medical Records Management System
+
 
 A secure and patient-centric medical records management system utilizing blockchain technology to enhance data security, control, and accessibility for healthcare users.
 
